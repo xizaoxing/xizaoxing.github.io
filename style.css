@@ -1,0 +1,30 @@
+body {
+	color: #f9f4f1;
+	background-color: #20232f;
+	font-size: 14px;
+	height: auto;
+	width: auto;
+}
+
+a {
+	color: #fde7ca;
+}
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+
+.title {
+	text-align: center;
+}
+
+h1 {
+	color: #fccca2;
+}
+
+p {
+	text-align: center;
+}
